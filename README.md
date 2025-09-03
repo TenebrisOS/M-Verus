@@ -1,7 +1,7 @@
 > [!WARNING]
 > The project is still under unstable development. Expect bugs and breaking changes
 <div align="left">
-<img src="logo.png" style="width:30%;">
+<img src="logo.png" style="width:10%;">
 </div>
 M-Verus is an open source android mobile app designed to look for VRSC mining statistics in verus.farm.
 
